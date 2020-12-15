@@ -5,8 +5,7 @@
 - Python 3
 - beautifulsoup
 - numpy 
-- request
-- json
+- requests
 
 ### Dependencies Installation
 ```shell
@@ -15,5 +14,5 @@
 
 ### Usage
 ```shell
-> python stock-scrapper.py
+> python 1.stock-scrapper.py
 ```
