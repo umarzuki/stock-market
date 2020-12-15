@@ -15,6 +15,8 @@ import os
 base_url = "https://www.theedgemarkets.com"
 
 years = [
+    "2020",
+    "2019",
     "2018",
     "2017",
     "2016",
